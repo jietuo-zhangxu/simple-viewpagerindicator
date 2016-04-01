@@ -94,7 +94,7 @@ public class ViewPagerIndicator extends LinearLayout {
 		super(context, attrs);
 
 		// 获取可见Tab的数量
-		TypedArray a = context.obtainStyledAttributes(attrs,
+		TypedArray a = context.obtainStyledAttributes(attrs, 
 				R.styleable.ViewPagerIndicator);
 
 		mTabVisibleCount = a.getInt(
