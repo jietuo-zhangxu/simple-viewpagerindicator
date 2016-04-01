@@ -63,7 +63,7 @@ public class ViewPagerIndicator extends LinearLayout {
 	 */
 	private final int DIMENSION_TRANGLE_WIDTH_MAX = (int) (getScreenWidth()/3 * RADIO_TRIANGLE_WIDTH);
 	/**
-	 * 初始化的偏移量
+	 * 初始化的偏移量  
 	 */
 	private int mInitTranslationX;
 	/**
